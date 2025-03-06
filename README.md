@@ -65,8 +65,6 @@ Integration with healthcare interoperability standards (e.g., HL7, FHIR)
 Development of automated workflows for continuous data processing
 Advanced visualization tools for clinical decision-making support
 
-## Project Purpose
-This project demonstrates practical skills in XML data handling, basic healthcare data analysis, and data mapping techniques. It was developed to showcasingshowcase my ability to learn quickly and apply technical and analytical skills clearly and effectively.
 
 ## 📝 License
 This project is openly shared for demonstration and educational purposes.
