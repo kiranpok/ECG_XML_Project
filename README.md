@@ -38,12 +38,15 @@ Follow these clear steps to run this project locally:
 ```shell
 git clone <https://github.com/kiranpok/ECG_XML_Project.git>
 cd ECG_XML_Project
+
 ###**Step 2: Install Dependencies**
 ```shell
 pip install pandas
+
 ### **Step 3: Convert CSV to XML**
 ```shell
 py csv_to_xml.py
+
 ### **Step 4: Run XML Data Analysis**
 ```shell
 py analyze_xml.py
