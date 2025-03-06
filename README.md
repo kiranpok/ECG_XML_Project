@@ -38,14 +38,17 @@ Follow these clear steps to run this project locally:
 ```shell
 git clone <https://github.com/kiranpok/ECG_XML_Project.git>
 cd ECG_XML_Project
-**Step 2: Install Dependencies**
+###**Step 2: Install Dependencies**
+```shell
 pip install pandas
-**Step 3: Convert CSV to XML**
+### **Step 3: Convert CSV to XML**
+```shell
 py csv_to_xml.py
-**Step 4: Run XML Data Analysis**
+### **Step 4: Run XML Data Analysis**
+```shell
 py analyze_xml.py
 
-Results will appear as:
+### Results will appear as:
 
 xml_analysis_results_detailed.csv
 
@@ -55,7 +58,7 @@ Integration with healthcare interoperability standards (e.g., HL7, FHIR)
 Development of automated workflows for continuous data processing
 Advanced visualization tools for clinical decision-making support
 
-Project Purpose
+##Project Purpose
 This project demonstrates practical skills in XML data handling, basic healthcare data analysis, and data mapping techniques. It was developed to showcasingshowcase my ability to learn quickly and apply technical and analytical skills clearly and effectively.
 
 ## 📝 License
