@@ -38,6 +38,7 @@ Follow these clear steps to run this project locally:
 ```shell
 git clone <https://github.com/kiranpok/ECG_XML_Project.git>
 cd ECG_XML_Project
+```
 
 ###**Step 2: Install Dependencies**
 ```shell
