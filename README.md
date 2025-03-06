@@ -1,7 +1,7 @@
 # ECG XML Project
 
 ## 🩺 Project Overview
-This project demonstrates basic **XML data handling** and **data analysis skills** using ECG data. It was developed to clearly showcase data analysis capabilities, XML conversion skills, and clinical data mapping knowledge, developed for my personal learning purpose. It uses ECG fragment data from PhysioNet.
+This is a Python-based data analysis project using XML conversion and statistical techniques to analyze frequency-domain ECG data from PhysioNet's ECG Fragment Database for exploring dangerous arrhythmias. This project demonstrates basic **XML data handling** and **data analysis skills** using ECG data. It was developed to clearly showcase data analysis capabilities, XML conversion skills, and clinical data mapping knowledge, developed for my personal learning purpose. It uses ECG fragment data from PhysioNet.
 
 ## 🎯 Purpose
 - Learn XML from scratch
